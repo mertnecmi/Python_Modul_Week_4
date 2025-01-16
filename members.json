@@ -20,5 +20,16 @@
         "üye_doğum_tarihi": "01.02.1983",
         "date": "15.01.2025",
         "üye_durum": "Aktif"
+    },
+    {
+        "üye_id": 3,
+        "üye_adi": "Necmi",
+        "üye_soyadi": "Mert",
+        "üye_telefon": "3231231231",
+        "üye_adres": "Deneme",
+        "üye_şehir": "Batman",
+        "üye_doğum_tarihi": "01.01.1985",
+        "date": "16.01.2025",
+        "üye_durum": "Aktif"
     }
 ]

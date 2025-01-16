@@ -8,6 +8,17 @@
         "yazar": "Caner cancan",
         "dil": "Türkçe",
         "fiyat": "21",
+        "status": "Rafta"
+    },
+    {
+        "kitap_id": 2,
+        "kitap_adi": "Alivelioğlunun hikayeleri",
+        "barkod_no": "2313213",
+        "yayinci": "Zehra abla yayınları",
+        "yayin_yili": "1900",
+        "yazar": "Zehra abla",
+        "dil": "Türkçe",
+        "fiyat": "21",
         "status": "Emanette"
     }
 ]

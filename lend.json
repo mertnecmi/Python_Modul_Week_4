@@ -5,6 +5,14 @@
         "member_id": 1,
         "verilme_tarihi": "15.01.2025",
         "iade_tarihi": "29.01.2025",
+        "iade_oldugu_tarih": "16.01.2025"
+    },
+    {
+        "lend_id": 2,
+        "boek_id": 2,
+        "member_id": 3,
+        "verilme_tarihi": "16.01.2025",
+        "iade_tarihi": "30.01.2025",
         "iade_oldugu_tarih": ""
     }
 ]
