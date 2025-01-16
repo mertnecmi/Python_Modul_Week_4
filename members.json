@@ -1,0 +1,24 @@
+[
+    {
+        "üye_id": 1,
+        "üye_adi": "Ali",
+        "üye_soyadi": "Velioğlu",
+        "üye_telefon": "012345678",
+        "üye_adres": "Muhabbet sokak 90",
+        "üye_şehir": "Adana",
+        "üye_doğum_tarihi": "01.01.1981",
+        "date": "15.01.2025",
+        "üye_durum": "Aktif"
+    },
+    {
+        "üye_id": 2,
+        "üye_adi": "Yeliz",
+        "üye_soyadi": "Fatmakızı",
+        "üye_telefon": "987654321",
+        "üye_adres": "Kerkstraat 21",
+        "üye_şehir": "Delf",
+        "üye_doğum_tarihi": "01.02.1983",
+        "date": "15.01.2025",
+        "üye_durum": "Aktif"
+    }
+]

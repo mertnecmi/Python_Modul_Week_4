@@ -1,0 +1,10 @@
+[
+    {
+        "lend_id": 1,
+        "boek_id": 1,
+        "member_id": 1,
+        "verilme_tarihi": "15.01.2025",
+        "iade_tarihi": "29.01.2025",
+        "iade_oldugu_tarih": ""
+    }
+]

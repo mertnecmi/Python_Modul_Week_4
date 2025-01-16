@@ -1,0 +1,13 @@
+[
+    {
+        "kitap_id": 1,
+        "kitap_adi": "Denemeler",
+        "barkod_no": "12312313",
+        "yayinci": "Adalar",
+        "yayin_yili": "2005",
+        "yazar": "Caner cancan",
+        "dil": "Türkçe",
+        "fiyat": "21",
+        "status": "Emanette"
+    }
+]
